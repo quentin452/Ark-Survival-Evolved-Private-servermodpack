@@ -1,3 +1,9 @@
+V1.02 RELEASE
+
+**mods added**
+
+* 2140170832 Dino Raids
+
 V1.01 RELEASE
 
 **mods added**
