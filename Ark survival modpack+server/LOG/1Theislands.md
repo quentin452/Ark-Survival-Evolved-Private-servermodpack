@@ -20,6 +20,7 @@ V1
 
 **mods list** 18MODS
 
+* 2140170832 Dino Raids
 * 1235086533  Torbaz Fast Crafting
 * 1277490425  Dino Quick Recovery
 * 1618319057  Dino Bars
