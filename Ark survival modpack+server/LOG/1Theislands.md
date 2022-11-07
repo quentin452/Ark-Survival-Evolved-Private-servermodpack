@@ -1,3 +1,9 @@
+V1.05
+
+**mods added**
+
+* 861066940 : Repair Kits
+
 V1.04
 
 **mods added**
@@ -45,8 +51,9 @@ V1
 
 ------------------------------------------------------------------------------------
 
-**mods list** 20DS
+**mods list** 21DS
 
+* 861066940 : Repair Kits
 * 1591643730  Creature Finder Deluxe 
 * 731604991   Structures Plus (S+)
 * 655581765   Pimp My Dino (Dino Armor)
