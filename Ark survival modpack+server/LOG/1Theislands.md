@@ -44,8 +44,13 @@ V1
 
 ------------------------------------------------------------------------------------
 
-**mods list** 18MODS
+**mods list** 21MODS
 
+* 1591643730  Creature Finder Deluxe 
+* 731604991   Structures Plus (S+)
+* 655581765   Pimp My Dino (Dino Armor)
+* 638464460   Armored Storage Stands 
+* 642935680   Recycler
 * 2140170832  Dino Raids
 * 1235086533  Torbaz Fast Crafting
 * 1277490425  Dino Quick Recovery
@@ -60,7 +65,5 @@ V1
 * 761535755   Ultra Stacks
 * 821530042   Upgrade Station v1.8i
 * 889745138   Awesome Teleporters!
-* 924933745   Dino Tracker
-* 854186603   Builder's Improvements (vanilla improved)
 * 1657570103  SeedFarm
 * 2791223457  Auto Feeder
