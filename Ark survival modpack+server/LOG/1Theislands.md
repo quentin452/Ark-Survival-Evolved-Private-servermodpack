@@ -5,13 +5,14 @@ V1.04
 * 1591643730 : Creature Finder Deluxe 
 * 731604991  : Structures Plus (S+)
 * 655581765  : Pimp My Dino (Dino Armor)
-* 638464460  : Armored Storage Stands 
+* 770854372  : Armored Storage Stands 
 * 642935680  : Recycler
 
 **mods deleted**
 
 * 924933745 : Dino Tracker
 * 854186603 : Builder's Improvements (vanilla improved)
+* 2015448200: Player Camera+
 
 V1.03 HOTFIX
 
@@ -44,12 +45,12 @@ V1
 
 ------------------------------------------------------------------------------------
 
-**mods list** 21MODS
+**mods list** 20DS
 
 * 1591643730  Creature Finder Deluxe 
 * 731604991   Structures Plus (S+)
 * 655581765   Pimp My Dino (Dino Armor)
-* 638464460   Armored Storage Stands 
+* 770854372   Armored Storage Stands 
 * 642935680   Recycler
 * 2140170832  Dino Raids
 * 1235086533  Torbaz Fast Crafting
@@ -57,7 +58,6 @@ V1
 * 1618319057  Dino Bars
 * 1650069767  Sleep able bed
 * 1957185915  Revive My Dino
-* 2015448200  Player Camera+
 * 2179515434  Tek Helper 
 * 2769908652  Better Waypoints V2
 * 2783538786  Auto Poop Collector
