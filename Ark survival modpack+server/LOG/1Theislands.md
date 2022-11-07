@@ -6,8 +6,8 @@ V1.03 HOTFIX
 
 **fixe**
 
-* fix [#4]([https://github.com/quentin452/private-minecraft-modpack/issues/4])
-* fix [#3]([https://github.com/quentin452/private-minecraft-modpack/issues/3])
+* fix [#4](https://github.com/quentin452/private-minecraft-modpack/issues/4)
+* fix [#3](https://github.com/quentin452/private-minecraft-modpack/issues/3)
 
 V1.02 RELEASE
 
