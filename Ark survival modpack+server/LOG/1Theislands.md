@@ -1,3 +1,18 @@
+V1.04
+
+**mods added**
+
+* 1591643730 : Creature Finder Deluxe 
+* 731604991  : Structures Plus (S+)
+* 655581765  : Pimp My Dino (Dino Armor)
+* 638464460  : Armored Storage Stands 
+* 642935680  : Recycler
+
+**mods deleted**
+
+* 924933745 : Dino Tracker
+* 854186603 : Builder's Improvements (vanilla improved)
+
 V1.03 HOTFIX
 
 **mods deleted**
