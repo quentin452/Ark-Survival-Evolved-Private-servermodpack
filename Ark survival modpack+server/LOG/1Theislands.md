@@ -2,6 +2,7 @@ V1.03 HOTFIX
 
 **mods deleted**
 
+* 2433235424  Armor Reforged
 **fixe**
 
 * fix [#4](https://github.com/quentin452/private-minecraft-modpack/issues/4)
@@ -37,7 +38,6 @@ V1
 * 1957185915  Revive My Dino
 * 2015448200  Player Camera+
 * 2179515434  Tek Helper 
-* 2433235424  Armor Reforged
 * 2769908652  Better Waypoints V2
 * 2783538786  Auto Poop Collector
 * 543859212   Auto Torch
