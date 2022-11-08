@@ -57,8 +57,9 @@ V1
 
 ------------------------------------------------------------------------------------
 
-**mods list** 21DS
+**mods list** 22DS
 
+* 1443404076 : Human npcs
 * 861066940 : Repair Kits
 * 1591643730  Creature Finder Deluxe 
 * 731604991   Structures Plus (S+)
