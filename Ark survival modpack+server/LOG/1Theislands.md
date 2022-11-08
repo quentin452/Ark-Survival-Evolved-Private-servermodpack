@@ -1,3 +1,12 @@
+V1.07
+
+**mods added**
+
+* 2227091285 : Fast Ammo Changer
+* 2097526040 : Dino Levelling Assistant
+* 2008799914 : Flyer Seatbelt - Safe Flyer Dismount
+* 1184763409 : Dino Patrol
+
 V1.06
 
 **mods added**
@@ -57,8 +66,12 @@ V1
 
 ------------------------------------------------------------------------------------
 
-**mods list** 22DS
+**mods list** 26DS
 
+* 2227091285 : Fast Ammo Changer
+* 2097526040 : Dino Levelling Assistant
+* 2008799914 : Flyer Seatbelt - Safe Flyer Dismount
+* 1184763409 : Dino Patrol
 * 1443404076 : Human npcs
 * 861066940 : Repair Kits
 * 1591643730  Creature Finder Deluxe 
