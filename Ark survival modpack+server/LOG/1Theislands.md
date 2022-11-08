@@ -1,3 +1,9 @@
+V1.06
+
+**mods added**
+
+* 1443404076 : Human npcs
+
 V1.05
 
 **mods added**
