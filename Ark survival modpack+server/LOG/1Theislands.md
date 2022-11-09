@@ -13,7 +13,9 @@ V1.09
 
 **mods updated**
 
-* 2783538786 : Auto Poop Collector                        
+* 2783538786 : Auto Poop Collector     
+
+Added a new option that will allow the poop collector to distribute fertilizer into nearby crop plots (currently does not support SS or S+)
 
 V1.08
 
