@@ -2,18 +2,18 @@ V1.09
 
 **mods added**
 
-854186603 : Builder's Improvements (vanilla improved)
-772237000 : Pick it Up
-760865850 : Inventory Cleaner (Open Source)
+* 854186603 : Builder's Improvements (vanilla improved)
+* 772237000 : Pick it Up
+* 760865850 : Inventory Cleaner (Open Source)
 
 **mods deleted**
 
-731604991 : Structures Plus (S+)
-1235086533 : Torbaz Fast Crafting
+* 731604991 : Structures Plus (S+)
+* 1235086533 : Torbaz Fast Crafting
 
 **mods updated**
 
-2783538786 : Auto Poop Collector                        
+* 2783538786 : Auto Poop Collector                        
 
 V1.08
 
