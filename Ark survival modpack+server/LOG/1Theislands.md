@@ -1,3 +1,9 @@
+V1.12
+
+**mods updated**
+
+* 2783538786 : Auto Poop Collector
+
 V1.11
 
 **mods added**
