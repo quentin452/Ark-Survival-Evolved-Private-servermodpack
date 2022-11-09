@@ -5,14 +5,12 @@ V1.09
 * 854186603 : Builder's Improvements (vanilla improved)
 * 772237000 : Pick it Up
 * 760865850 : Inventory Cleaner (Open Source)
-* 2863707757 : Better Map
 
 **mods deleted**
 
 * 731604991 : Structures Plus (S+)
 * 1235086533 : Torbaz Fast Crafting
 * 2008799914 : Flyer Seatbelt - Safe Flyer Dismount
-* 2769908652 : Better Waypoints V2
 
 **mods updated**
 
@@ -96,7 +94,7 @@ V1
 
 **mods list** 265DS
 
-* 2863707757 : Better Map
+* 2769908652 : Better Waypoints V2
 * 760865850 : Inventory Cleaner (Open Source)
 * 772237000 : Pick it Up
 * 854186603 : Builder's Improvements (vanilla improved)
