@@ -1,3 +1,9 @@
+V1.09
+
+**mods added**
+
+* 854186603 : Builder's Improvements (vanilla improved)
+
 V1.08
 
 **mods deleted**
@@ -72,8 +78,9 @@ V1
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 25DS
+**mods list** 26DS
 
+* 854186603 : Builder's Improvements (vanilla improved)
 * 2227091285 : Fast Ammo Changer
 * 2097526040 : Dino Levelling Assistant
 * 2008799914 : Flyer Seatbelt - Safe Flyer Dismount
