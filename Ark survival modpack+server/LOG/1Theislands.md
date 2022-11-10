@@ -1,5 +1,5 @@
 
-**USE enablecheats bengala, cheat GiveEngrams WHEN OPEN THE GAME**
+**Type cheat GiveEngrams in console when are in game**
 
 
 V1.13
