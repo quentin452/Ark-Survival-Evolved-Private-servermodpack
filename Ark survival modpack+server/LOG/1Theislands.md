@@ -147,21 +147,21 @@ V1
 * 2097526040 : Dino Levelling Assistant
 * 1184763409 : Dino Patrol
 * 861066940 : Repair Kits
-* 1591643730  Creature Finder Deluxe 
-* 655581765   Pimp My Dino (Dino Armor)
-* 642935680   Recycler
-* 2140170832  Dino Raids
-* 1277490425  Dino Quick Recovery
-* 1618319057  Dino Bars
-* 1650069767  Sleep able bed
-* 1957185915  Revive My Dino
-* 2179515434  Tek Helper 
-* 2783538786  Auto Poop Collector
-* 543859212   Auto Torch
-* 761535755   Ultra Stacks
-* 821530042   Upgrade Station v1.8i
-* 889745138   Awesome Teleporters!
-* 2791223457  Auto Feeder
+* 1591643730 : Creature Finder Deluxe 
+* 655581765 : Pimp My Dino (Dino Armor)
+* 642935680 : Recycler
+* 2140170832 : Dino Raids
+* 1277490425 : Dino Quick Recovery
+* 1618319057 : Dino Bars
+* 1650069767 : Sleep able bed
+* 1957185915 : Revive My Dino
+* 2179515434 : Tek Helper 
+* 2783538786 : Auto Poop Collector
+* 543859212 : Auto Torch
+* 761535755 : Ultra Stacks
+* 821530042 : Upgrade Station v1.8i
+* 889745138 : Awesome Teleporters!
+* 2791223457 : Auto Feeder
 * 815252862 : Freestanding Oil Pump
 
 --------------------------------------------------------------------------------------------------
