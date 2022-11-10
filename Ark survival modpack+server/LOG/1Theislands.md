@@ -1,3 +1,7 @@
+
+**USE enablecheats bengala, cheat GiveEngrams WHEN OPEN THE GAME**
+
+
 V1.13
 
 **game updated**
@@ -117,8 +121,6 @@ V1.01 RELEASE
 * 2791223457 Auto Feeder
 * 854186603 Builder's Improvements (vanilla improved)
 * 1657570103 SeedFarm
-
-**USE enablecheats bengala, cheat GiveEngrams WHEN OPEN THE GAME**
 
 V1
 
