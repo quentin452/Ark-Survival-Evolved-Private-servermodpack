@@ -1,3 +1,10 @@
+V1.13
+
+**game updated**
+
+* client : 352.3 to 353.1
+* server : 352.6 to 353.1
+
 V1.12
 
 **mods updated**
