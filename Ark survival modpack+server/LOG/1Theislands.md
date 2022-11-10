@@ -7,6 +7,10 @@ V1.14
 
 * 1358972441 : PearlCraft
 
+**mods updated**
+
+* 2783538786 : Auto Poop Collector
+
 V1.13
 
 **game updated**
