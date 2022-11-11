@@ -6,7 +6,6 @@ V1.15
 **game updated**
 
 * client : 353.1 to 353.2
-* server : 353.1 to 353.2
 
 V1.14
 
