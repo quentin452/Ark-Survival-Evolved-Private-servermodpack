@@ -1,5 +1,5 @@
 
-**Type cheat GiveEngrams in console when are in game**
+**Type cheat GiveEngrams in console when are in game(the islands map only)**
 
 V1.16
 
