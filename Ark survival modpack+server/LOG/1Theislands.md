@@ -7,9 +7,9 @@ MODS NEED TO BE TESTED IN PRIORITY
 
 PROBABLY DOESN4T WORK MODS
 
-* 2205699189 : Alpha Everything (OPEN SOURCE) (maybe not working)
-* 2016338122 : Shiny! Dinos (maybe not working)
-* 2287986276 : Tameable Bosses(maybe not working)
+* 2205699189 : Alpha Everything (OPEN SOURCE)
+* 2016338122 : Shiny! Dinos
+* 2287986276 : Tameable Bosses
 
 PROBABLY DUPLICATED MODS WITH STRUCTURE PLUS S+ 
 
