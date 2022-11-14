@@ -4,8 +4,6 @@ MODS NEED TO BE TESTED IN PRIORITY
 * 926952011 : Level Up Counter
 * 1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
 * 731604991 : Structures Plus (S+)
-* 1373744537 : Additional Creatures 2: Wild Ark
-* 1251632107 : Immersive Taming
 
 PROBABLY DOESN4T WORK MODS
 
