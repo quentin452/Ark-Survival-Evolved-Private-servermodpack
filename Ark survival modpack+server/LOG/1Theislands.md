@@ -4,7 +4,7 @@ V1.26 TEST BUILD/BETA BUILD
 
 * 2182894352 : Custom Dino Levels
 
-**mods deleted
+**mods deleted**
 
 * 1373744537 : Additional Creatures 2: Wild Ark 
 
