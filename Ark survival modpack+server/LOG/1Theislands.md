@@ -10,6 +10,10 @@ V1.26 TEST BUILD/BETA BUILD
 
 * 1373744537 : Additional Creatures 2: Wild Ark 
 
+**fixe**
+
+* Wild Ark deleted because some mobs are laggy(like aquaria)
+
 V1.25 TEST BUILD/BETA BUILD
 
 
