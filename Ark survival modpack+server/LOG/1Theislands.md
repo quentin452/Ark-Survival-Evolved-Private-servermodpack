@@ -1,4 +1,31 @@
-V1.17
+PROBABLY DOESN4T WORK MODS
+
+2205699189 : Alpha Everything (OPEN SOURCE) (maybe not working)
+2016338122 : Shiny! Dinos (maybe not working)
+2287986276 : Tameable Bosses(maybe not working)
+
+V1.18 TEST BUILD/UNSTABLE BUILD
+
+**mods added**
+
+* 683895349 : Max Dino Level ( Wild level 840 ) 
+* 926952011 : Level Up Counter
+* 1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
+* 731604991 : Structures Plus (S+) 
+* 1373744537 : Additional Creatures 2: Wild Ark 
+* 1251632107 : Immersive Taming
+* 924933745 : Dino Tracker
+* 2263656440 : MTSArk.co.uk The Island Extension
+
+**mods deleted**
+
+* 2227091285 : Fast Ammo Changer
+
+**fixe**
+
+* fix problem with tek armor ui caused by fast ammo changer
+
+V1.17 TEST BUILD/UNSTABLE BUILD
 
 **mods added**
 
@@ -21,6 +48,10 @@ V1.17
 **fixe**
 
 * fix tek armor doesn't work
+* 
+---------------------------------------------------------------------------------
+
+OLD SAVE
 
 V1.16
 
@@ -174,8 +205,16 @@ V1
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 36MODS
+**mods list** 43MODS
 
+* 683895349 : Max Dino Level ( Wild level 840 ) 
+* 926952011 : Level Up Counter
+* 1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
+* 731604991 : Structures Plus (S+) 
+* 1373744537 : Additional Creatures 2: Wild Ark 
+* 1251632107 : Immersive Taming
+* 924933745 : Dino Tracker
+* 2263656440 : MTSArk.co.uk The Island Extension
 * 1933440344 : Wyvern Island 2
 * 1676159020 : Additional Creatures: Aquaria 
 * 2205699189 : Alpha Everything (OPEN SOURCE)
@@ -194,7 +233,6 @@ V1
 * 2769908652 : Better Waypoints V2
 * 760865850 : Inventory Cleaner (Open Source)
 * 854186603 : Builder's Improvements (vanilla improved)
-* 2227091285 : Fast Ammo Changer
 * 2097526040 : Dino Levelling Assistant
 * 1184763409 : Dino Patrol
 * 861066940 : Repair Kits
@@ -217,4 +255,4 @@ V1
 
 **server mods line**
 
-1591643730,655581765,642935680,2140170832,1277490425,1618319057,1650069767,1957185915,2179515434,2783538786,543859212,761535755,821530042,889745138,2791223457,861066940,2227091285,2097526040,1184763409,854186603,760865850,2769908652,770854372,1358972441,1428596566,1933440344,1676159020,2205699189,2016338122,2715037025,2287986276,1931415003,1910733780,2128782723,1963942404,1496720667
+683895349,926952011,1961542614,731604991,1373744537,1251632107,924933745,2263656440,1591643730,655581765,642935680,2140170832,1277490425,1618319057,1650069767,1957185915,2179515434,2783538786,543859212,761535755,821530042,889745138,2791223457,861066940,2097526040,1184763409,854186603,760865850,2769908652,770854372,1358972441,1428596566,1933440344,1676159020,2205699189,2016338122,2715037025,2287986276,1931415003,1910733780,2128782723,1963942404,1496720667
