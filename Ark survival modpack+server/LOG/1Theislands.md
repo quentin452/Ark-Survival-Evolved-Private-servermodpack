@@ -12,6 +12,7 @@ PROBABLY DUPLICATED MODS WITH STRUCTURE PLUS S+
 * 642935680 : Recycler
 * 760865850 : Inventory Cleaner (Open Source)
 * 770854372  : Armour Stand
+* 1358972441 : PearlCraft
 
 --------------------------------------------------------------------------------
 
