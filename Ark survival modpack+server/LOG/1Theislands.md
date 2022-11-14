@@ -14,6 +14,8 @@ PROBABLY DUPLICATED MODS WITH STRUCTURE PLUS S+
 * 760865850 : Inventory Cleaner (Open Source)
 * 770854372  : Armour Stand
 
+--------------------------------------------------------------------------------
+
 V1.18 TEST BUILD/UNSTABLE BUILD
 
 **mods added**
