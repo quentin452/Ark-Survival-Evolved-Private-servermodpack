@@ -3,17 +3,6 @@ PROBABLY DOESN4T WORK MODS
 * 2016338122 : Shiny! Dinos
 * 2287986276 : Tameable Bosses
 
-PROBABLY DUPLICATED MODS WITH STRUCTURE PLUS S+ 
-
-* 1650069767 : Sleep able bed
-* 2783538786 : Auto Poop Collector
-* 889745138 : Awesome Teleporters!
-* 2791223457 : Auto Feeder
-* 642935680 : Recycler
-* 760865850 : Inventory Cleaner (Open Source)
-* 770854372  : Armour Stand
-* 1358972441 : PearlCraft
-
 --------------------------------------------------------------------------------
 
 V1.19 TEST BUILD/UNSTABLE BUILD
