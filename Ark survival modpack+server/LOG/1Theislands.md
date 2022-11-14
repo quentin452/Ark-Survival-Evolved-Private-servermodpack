@@ -61,8 +61,6 @@ V1.17 TEST BUILD/UNSTABLE BUILD
 
 * fix tek armor doesn't work
 
----------------------------------------------------------------------------------
-
 OLD SAVE
 
 V1.16
