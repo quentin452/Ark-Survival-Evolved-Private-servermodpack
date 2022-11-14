@@ -1,3 +1,16 @@
+MODS NEED TO BE TESTED IN PRIORITY
+
+
+* 683895349 : Max Dino Level ( Wild level 840 )
+* 926952011 : Level Up Counter
+* 1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
+* 731604991 : Structures Plus (S+)
+* 1373744537 : Additional Creatures 2: Wild Ark
+* 1251632107 : Immersive Taming
+* 924933745 : Dino Tracker
+* 2263656440 : MTSArk.co.uk The Island Extension
+
+
 PROBABLY DOESN4T WORK MODS
 
 * 2205699189 : Alpha Everything (OPEN SOURCE) (maybe not working)
