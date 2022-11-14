@@ -2,8 +2,6 @@ MODS NEED TO BE TESTED IN PRIORITY
 
 
 * 926952011 : Level Up Counter
-* 1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
-* 731604991 : Structures Plus (S+)
 
 PROBABLY DOESN4T WORK MODS
 
