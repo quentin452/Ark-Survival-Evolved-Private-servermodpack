@@ -8,6 +8,10 @@ V1.24 TEST BUILD/UNSTABLE BUILD
 
 * 1676159020 : Additional Creatures: Aquaria 
 
+**fixe**
+
+* Aquaria deleted because some mobs are laggy
+
 V1.23 TEST BUILD/UNSTABLE BUILD
 
 **mods added**
@@ -24,6 +28,11 @@ V1.23 TEST BUILD/UNSTABLE BUILD
 
 * 2287986276 : Tameable Bosses
 * 1190882708 : No Obelisk Island  
+
+
+**fixe**
+
+* can't summon boss caused by No obelisk Island
 
 V1.21 TEST BUILD/UNSTABLE BUILD
 
