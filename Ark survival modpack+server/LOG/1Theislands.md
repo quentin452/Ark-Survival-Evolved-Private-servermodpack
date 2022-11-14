@@ -1,8 +1,18 @@
 PROBABLY DOESN4T WORK MODS
 
-2205699189 : Alpha Everything (OPEN SOURCE) (maybe not working)
-2016338122 : Shiny! Dinos (maybe not working)
-2287986276 : Tameable Bosses(maybe not working)
+* 2205699189 : Alpha Everything (OPEN SOURCE) (maybe not working)
+* 2016338122 : Shiny! Dinos (maybe not working)
+* 2287986276 : Tameable Bosses(maybe not working)
+
+PROBABLY DUPLICATED MODS WITH STRUCTURE PLUS S+ 
+
+* 1650069767 : Sleep able bed
+* 2783538786 : Auto Poop Collector
+* 889745138 : Awesome Teleporters!
+* 2791223457 : Auto Feeder
+* 642935680 : Recycler
+* 760865850 : Inventory Cleaner (Open Source)
+* 770854372  : Armour Stand
 
 V1.18 TEST BUILD/UNSTABLE BUILD
 
@@ -167,7 +177,7 @@ V1.04
 * 1591643730 : Creature Finder Deluxe 
 * 731604991  : Structures Plus (S+)
 * 655581765  : Pimp My Dino (Dino Armor)
-* 770854372  : Armored Storage Stands 
+* 770854372  : Armour Stand
 * 642935680  : Recycler
 
 **mods deleted**
@@ -229,7 +239,7 @@ V1
 * 1428596566 : Auto Engrams!
 * 655581765 : Pimp My Dino (Dino Armor)
 * 1358972441 : PearlCraft
-* 770854372 : Armored Storage Stands
+* 770854372 : Armour Stand
 * 2769908652 : Better Waypoints V2
 * 760865850 : Inventory Cleaner (Open Source)
 * 854186603 : Builder's Improvements (vanilla improved)
