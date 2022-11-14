@@ -6,9 +6,6 @@ MODS NEED TO BE TESTED IN PRIORITY
 * 731604991 : Structures Plus (S+)
 * 1373744537 : Additional Creatures 2: Wild Ark
 * 1251632107 : Immersive Taming
-* 924933745 : Dino Tracker
-* 2263656440 : MTSArk.co.uk The Island Extension
-
 
 PROBABLY DOESN4T WORK MODS
 
