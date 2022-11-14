@@ -1,6 +1,5 @@
 PROBABLY DOESN4T WORK MODS
 
-* 2205699189 : Alpha Everything (OPEN SOURCE)
 * 2016338122 : Shiny! Dinos
 * 2287986276 : Tameable Bosses
 
