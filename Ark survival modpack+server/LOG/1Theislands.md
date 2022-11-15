@@ -420,7 +420,7 @@ V1
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 50MODS
+**mods list** 49MODS
 
 * 2757791184 : Jurassic Ark Structures (Riot)
 * 931213038 : Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
