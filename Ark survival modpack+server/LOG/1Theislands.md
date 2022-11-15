@@ -4,6 +4,10 @@ V1.33 TEST BUILD/UNSTABLE BUILD
 
 * 1315534403 : PVE Offline Player Protection
 
+**fixe**
+
+* fix [#13](https://github.com/quentin452/Ark-Survival-Evolved-Private-servermodpack/issues/13)
+
 V1.32 TEST BUILD/UNSTABLE BUILD
 
 **mods added**
