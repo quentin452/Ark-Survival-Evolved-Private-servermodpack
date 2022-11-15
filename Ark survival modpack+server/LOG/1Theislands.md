@@ -1,3 +1,14 @@
+V1.33 TEST BUILD/BETA BUILD
+
+**mods added**
+
+* 1292661988 : ( The Island ) DLC Resources - Arkanea Server
+
+**mods deleted**
+
+* : Freestanding Oil Pump
+* : Creative mod plus 
+
 V1.33 TEST BUILD/UNSTABLE BUILD
 
 **mods deleted**
