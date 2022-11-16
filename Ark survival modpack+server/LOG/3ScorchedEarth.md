@@ -1,6 +1,6 @@
-V1.01
+V1.02
 
-**mods added***
+**mods added**
 
 * 2590318375 : HudEvolved DinoBars
 
