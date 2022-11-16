@@ -85,6 +85,10 @@ V1.44 TEST BUILD/BETA BUILD
 * 2229978458 : HudEvolved
 * 1618319057 : Dino Bars
 
+**fixe**
+
+* fix HudEvolved doesn't work
+
 V1.43 TEST BUILD/BETA BUILD
 
 **mods deleted**
