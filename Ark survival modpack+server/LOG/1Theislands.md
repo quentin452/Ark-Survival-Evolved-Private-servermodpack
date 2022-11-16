@@ -1,8 +1,3 @@
-**PROBABLY DUPLICATED MODS**
-
-* 893834064 : Wooden Hanging Bridge
-* 558651608 : Bridge
-
 V1.40 TEST BUILD/BETA BUILD
 
 **mods added**
