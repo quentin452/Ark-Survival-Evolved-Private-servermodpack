@@ -3,12 +3,10 @@
 * 893834064 : Wooden Hanging Bridge
 * 558651608 : Bridge
 
-V1.39 TEST BUILD/BETA BUILD
+V1.40 TEST BUILD/BETA BUILD
 
 **mods added**
 
-* 845855498 : Scorched earth plus
-* 2059403921 : TheIsland Map Extension: Better Island Volcano
 * 893834064 : Wooden Hanging Bridge
 * 1432383497 : Dino Paint Station
 * 947448389 : Readable Signs
@@ -24,6 +22,13 @@ V1.39 TEST BUILD/BETA BUILD
 * 528247497 : Stone Crusher
 * 531205766 : Real Rails
 * 558651608 : Bridge
+* 
+V1.39 TEST BUILD/BETA BUILD
+
+**mods added**
+
+* 845855498 : Scorched earth plus
+* 2059403921 : TheIsland Map Extension: Better Island Volcano
 
 **mods deleted**
 
