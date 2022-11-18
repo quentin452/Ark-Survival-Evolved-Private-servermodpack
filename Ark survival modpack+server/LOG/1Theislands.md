@@ -1,4 +1,4 @@
-⚠️PLS ADD THIS ARGUMENT IN YOUR LAUNCHER WHEN YOU PLAY WITH THIS MODPACK -lowmemory to avoid not enough memory crash⚠️
+⚠️PLS ADD THIS ARGUMENT IN YOUR LAUNCHER WHEN YOU PLAY WITH THIS MODPACK -lowmemory -preventhibernation to avoid not enough memory crash⚠️
 
 **The Islands/TI**
 
