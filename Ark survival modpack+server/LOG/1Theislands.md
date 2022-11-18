@@ -1,3 +1,5 @@
+PLS DON4T USE DXVK/DXVK ASYNC BECAUSE YOU CAN GET ALOT OF CRASH WITH NOT ENOUGH MEMORY
+
 **The Islands/TI**
 
 **client/server mods line**
@@ -81,10 +83,6 @@ V1.64 RELEASE
 
 * 679529026 : Ark Steampunk Mod
 * 1984936918 : MarniiMods: Wildlife
-
-**fixe**
-
-* fix [#24](https://github.com/quentin452/Ark-Survival-Evolved-Private-servermodpack/issues/24)
 
 V1.63 RELEASE
 
