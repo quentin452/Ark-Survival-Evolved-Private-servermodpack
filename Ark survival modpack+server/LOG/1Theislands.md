@@ -1,5 +1,3 @@
-⚠️PLS DON'T USE DXVK/DXVK ASYNC BECAUSE YOU CAN GET ALOT OF CRASH ABOUT NOT ENOUGH MEMORY⚠️
-
 **The Islands/TI**
 
 **client/server mods line**
