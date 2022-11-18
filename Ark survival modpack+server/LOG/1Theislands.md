@@ -1,3 +1,5 @@
+⚠️PLS ADD THIS ARGUMENT IN YOUR LAUNCHER WHEN YOU PLAY WITH THIS MODPACK -lowmemory
+
 **The Islands/TI**
 
 **client/server mods line**
