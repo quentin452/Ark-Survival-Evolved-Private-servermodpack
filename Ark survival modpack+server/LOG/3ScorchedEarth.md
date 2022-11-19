@@ -1,6 +1,6 @@
 **SCORCHED EARTH/SE**
 
-⚠️PLS ADD THIS ARGUMENT IN YOUR LAUNCHER WHEN YOU PLAY WITH THIS MODPACK -preventhibernation to fix some mods like creature finder deluxe⚠️
+⚠️PLS ADD THIS ARGUMENT IN YOUR LAUNCHER WHEN YOU PLAY WITH THIS MODPACK -preventhibernation to fix some mods like creature finder deluxe and don't use -nomemorybias⚠️
 
 **client/server mods line**
 
