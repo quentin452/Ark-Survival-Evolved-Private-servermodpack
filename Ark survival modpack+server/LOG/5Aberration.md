@@ -47,7 +47,7 @@ mods list 30MODS
 
 config 
 
-Ddownload the GameUserSettings.ini here https://mega.nz/folder/i1UFnZpb#mJUnSiUv9JGlnrsCVZJzzg and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
+Download the GameUserSettings.ini here https://mega.nz/folder/i1UFnZpb#mJUnSiUv9JGlnrsCVZJzzg and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
 
 ⚠️don't forget to backup your oldest files ⚠️
 
