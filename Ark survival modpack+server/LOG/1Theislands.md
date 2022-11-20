@@ -87,9 +87,9 @@
 
 config 
 
-Add download the GameUserSettings.ini https://mega.nz/folder/D1sQEKha#JBync3NbuSiIOmUF6-HxKw and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
+Add download the GameUserSettings.ini + Game.ini here https://mega.nz/folder/D1sQEKha#JBync3NbuSiIOmUF6-HxKw and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
 
-⚠️don't forget to backup your old gameusersettings.ini ⚠️
+⚠️don't forget to backup  oldest files⚠️
 
 --------------------------------------------------------------------------------------------------
 
