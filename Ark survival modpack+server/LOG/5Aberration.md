@@ -45,7 +45,7 @@ mods list 30MODS
 
 ⚠️IMPORTANT TO WORK CORRECTLY⚠️
 
-config 
+**config** 
 
 Download the GameUserSettings.ini here https://mega.nz/folder/i1UFnZpb#mJUnSiUv9JGlnrsCVZJzzg and copy and paste here C:\Program Files\Epic Games\ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor for epic games store or C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor for steam
 
