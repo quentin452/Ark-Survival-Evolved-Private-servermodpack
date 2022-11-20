@@ -8,8 +8,9 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 29MODS
+mods list 30MODS
 
+    766032350 : Fertilized Eggs Naturally Spawn
     1377013051 : Infinite Zipline Length
     1398863801 : Boss Arena Tweaker
     1315534403 : PVE Offline Player Protection
