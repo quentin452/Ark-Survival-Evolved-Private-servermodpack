@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 31MODS
+mods list 29MODS
 
     1377013051 : Infinite Zipline Length
     1398863801 : Boss Arena Tweaker
