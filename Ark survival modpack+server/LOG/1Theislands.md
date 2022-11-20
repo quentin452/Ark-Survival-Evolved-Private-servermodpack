@@ -83,6 +83,16 @@
 
 --------------------------------------------------------------------------------------------------
 
+⚠️IMPORTANT TO WORK CORRECTLY⚠️
+
+config 
+
+Add download the GameUserSettings.ini https://mega.nz/folder/D1sQEKha#JBync3NbuSiIOmUF6-HxKw and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
+
+⚠️don't forget to backup your old gameusersettings.ini ⚠️
+
+--------------------------------------------------------------------------------------------------
+
 V1.67 RELEASE
 
 **mods added**
