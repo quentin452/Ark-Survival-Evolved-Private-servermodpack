@@ -40,6 +40,17 @@ mods list 29MODS
     889745138 : Awesome Teleporters!
     2791223457 : Auto Feeder
 
+
+--------------------------------------------------------------------------------------------------
+
+⚠️IMPORTANT TO WORK CORRECTLY⚠️
+
+config 
+
+Add download the GameUserSettings.ini here https://mega.nz/folder/S5EEDTrJ#1L2XUyrmn64gNKfPp8v6kw and copy and paste here ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor
+
+⚠️don't forget to backup oldest files⚠️
+
 --------------------------------------------------------------------------------------------------
 
 
