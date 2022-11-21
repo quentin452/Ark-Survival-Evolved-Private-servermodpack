@@ -94,7 +94,7 @@ V1.71 RELEASE ULTRA STABLE
 
 **fixe**
 
-* probably fix freeze every 10 minutes?
+* fix freeze every 10 minutes
     
 V1.70 RELEASE
 
