@@ -87,16 +87,6 @@
 
 --------------------------------------------------------------------------------------------------
 
-⚠️IMPORTANT TO WORK CORRECTLY⚠️
-
-**config**
-
-Download the GameUserSettings.ini + Game.ini here https://mega.nz/folder/D1sQEKha#JBync3NbuSiIOmUF6-HxKw and copy and paste here C:\Program Files\Epic Games\ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor for epic games store or C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor for steam
-
-⚠️don't forget to backup  oldest files⚠️
-
---------------------------------------------------------------------------------------------------
-
 V1.68 RELEASE
 
 **mods added**
