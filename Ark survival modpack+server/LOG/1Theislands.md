@@ -12,7 +12,7 @@
 
     2472241998 : Unlimited Artifacts
     2140170832 : Dino Raids
-    766032350 : Fertilized Eggs Naturally Spawn + mod
+    766032350 : Fertilized Eggs Naturally Spawn
     1752962531 : Fertilized Eggs Naturally Spawn - Creatures from mods Addon
     1398863801 : Boss Arena Tweaker
     2623890618 : Inventory Backup System
@@ -104,7 +104,7 @@ V1.68 RELEASE
 
 **mods added**
 
-* 766032350 : Fertilized Eggs Naturally Spawn + mod
+* 766032350 : Fertilized Eggs Naturally Spawn
 * 1752962531 : Fertilized Eggs Naturally Spawn - Creatures from mods Addon
 * 1377013051 : Infinite Zipline Length
 * 2140170832 : Dino Raids
