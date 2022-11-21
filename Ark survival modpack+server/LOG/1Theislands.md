@@ -91,6 +91,10 @@ V1.71 RELEASE ULTRA STABLE
 
 * 766032350 : Fertilized Eggs Naturally Spawn
 * 1752962531 : Fertilized Eggs Naturally Spawn - Creatures from mods Addon
+
+**fixe**
+
+* probably fix freeze every 10 minutes?
     
 V1.70 RELEASE ULTRA STABLE
 
