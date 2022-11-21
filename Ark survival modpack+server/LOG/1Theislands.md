@@ -96,7 +96,7 @@ V1.71 RELEASE ULTRA STABLE
 
 * probably fix freeze every 10 minutes?
     
-V1.70 RELEASE ULTRA STABLE
+V1.70 RELEASE
 
 **mods added**
 
