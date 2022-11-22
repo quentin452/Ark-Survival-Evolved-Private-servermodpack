@@ -48,7 +48,7 @@ mods list 32MODS
 
 V1.06 
 
-**mods deleted**
+**mods added**
 
 * 1122482607 : Item Finder
 
