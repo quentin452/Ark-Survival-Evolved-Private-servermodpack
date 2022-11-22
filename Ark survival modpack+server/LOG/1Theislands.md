@@ -10,7 +10,10 @@
 
 **mods list** 77MODS
 
+
+    764792033 : Armour+
     812639416 : Weapons+
+    1457151173 : Armoured Supply Drops
     1122482607 : Item Finder
     1652120435 : Shads Atlas Imports
     766032350 : Fertilized Eggs Naturally Spawn
