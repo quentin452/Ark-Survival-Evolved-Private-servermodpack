@@ -94,7 +94,7 @@ V1.74 RELEASE
 
 **mods deleted**
 
-* 1675895024 : No Untameable
+* 1675895024 : No Untameables
 
 V1.73 RELEASE 
 
@@ -148,7 +148,7 @@ V1.66 RELEASE
 **mods added**
 
 * 2594067220 : Super Spyglass Plus
-* 1675895024 : No Untameable
+* 1675895024 : No Untameables
 
 V1.65 RELEASE
 
