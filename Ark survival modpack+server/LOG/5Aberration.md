@@ -10,6 +10,7 @@
 
 mods list 33MODS
 
+    815252862 : Freestanding Oil Pump
     1122482607 : Item Finder
     2472241998 : Unlimited Artifacts
     766032350 : Fertilized Eggs Naturally Spawn
