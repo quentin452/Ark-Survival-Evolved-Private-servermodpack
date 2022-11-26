@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 35ODS
+mods list 35MODS
 
     2804332920 : Paleo ARK: Legends Expansion
     2008900162 : ARK: Reaper Expansion
