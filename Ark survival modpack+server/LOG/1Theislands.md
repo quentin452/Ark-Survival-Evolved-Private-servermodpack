@@ -117,6 +117,10 @@ V1.77 RELEASE
 * 2791223457 : Auto Feeder
 * 2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
 
+**other**
+
+* reduce ram usage ~1 gb less
+
 V1.76 RELEASE
 
 **mods added**
