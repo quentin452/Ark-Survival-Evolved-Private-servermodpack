@@ -25,7 +25,7 @@ mods list 35MODS
     1428596566 : Auto Engrams!
     655581765 : Pimp My Dino (Dino Armor)
     1358972441 : PearlCraft
-    770854372 : Armored Storage Stands
+    770854372 : Armour Stand
     2769908652 : Better Waypoints V2
     760865850 : Inventory Cleaner (Open Source)
     854186603 : Builder's Improvements (vanilla improved)
