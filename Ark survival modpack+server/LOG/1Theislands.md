@@ -108,10 +108,6 @@ V1.90 RELEASE
 
 * 2059403921 : TheIsland Map Extension: Better Island Volcano
 
-**fixe**
-
-* fix fps lag caused by Better Island Volcano
-
 V1.89 RELEASE
 
 **mods deleted**
