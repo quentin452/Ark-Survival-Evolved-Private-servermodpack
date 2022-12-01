@@ -1,5 +1,3 @@
-NEVER USE cheat destroywilddinos BECAUSE ALPHA EVERYTHING CAN MAKE LAGS BECAUSE ALOT OF DINOS WILL SPAWN LIKE ALPHA
-
 **The Islands/TI**
 
 **client/server mods line**
