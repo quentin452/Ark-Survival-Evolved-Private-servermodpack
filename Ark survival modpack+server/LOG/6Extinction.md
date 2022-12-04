@@ -6,11 +6,10 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 39MODS
+mods list 38MODS
 
     1133918048 : Phoenix Everywhere
     2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
-    2547261052 : Fixed Extinction
     855761786 : Automated Resource Pumps
     2715085686 : Meat Dehydrator / Jerky Make 
     2357749376 : dino killer
@@ -49,6 +48,16 @@ mods list 39MODS
     2791223457 : Auto Feeder
 
 --------------------------------------------------------------------------------------------------
+
+V1.12
+
+**mods deleted**
+
+* 2547261052 : Fixed Extinction
+
+**fixe**
+
+* fix can't place some structures in multiplayer
 
 V1.11
 
