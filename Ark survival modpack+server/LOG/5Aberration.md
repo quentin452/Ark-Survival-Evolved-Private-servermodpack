@@ -59,6 +59,10 @@ V1.136
 
 * 855761786 : Automated Resource Pumps
 
+**mods deleted**
+
+* 1267677473 : Cross Aberration
+
 V1.135
 
 **mods added**
