@@ -6,8 +6,9 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 42MODS
+mods list 43MODS
 
+    1133918048 : Phoenix Everywhere
     2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
     2547261052 : Fixed Extinction
     855761786 : Automated Resource Pumps
@@ -59,6 +60,7 @@ V1.1
 
 * 2547261052 : Fixed Extinction
 * 1133918048 : Phoenix Everywhere
+* 2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
 
 **mods deleted**
 
