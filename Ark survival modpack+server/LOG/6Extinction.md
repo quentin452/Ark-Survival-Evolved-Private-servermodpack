@@ -6,7 +6,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-mods list 41MODS
+mods list 40MODS
 
     2862832839 : Narcotics Plus with potion 
     893834064 : Wooden Hanging Bridge
