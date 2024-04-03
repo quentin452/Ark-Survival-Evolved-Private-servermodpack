@@ -1,6 +1,3 @@
-* HGPlus - Pull Resources - ReUpload : 2994599390
-* Ascender : 2795952040
-
 **The Islands/TI**
 
 **client/server mods line**
@@ -9,7 +6,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 79MODS
+**mods list** 69MODS
 
     2715085686 : Meat Dehydrator / Jerky Make
     1264988068 : Anti Radiation Armor - Tek, Skins, etc
