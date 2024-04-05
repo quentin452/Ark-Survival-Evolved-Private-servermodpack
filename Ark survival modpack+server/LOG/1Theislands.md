@@ -6,7 +6,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 69MODS
+**mods list** 70MODS
 
     2715085686 : Meat Dehydrator / Jerky Make
     1264988068 : Anti Radiation Armor - Tek, Skins, etc
