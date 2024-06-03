@@ -1,16 +1,53 @@
 **The Islands/TI**
 
-**SEE IMPORTANT.txt**
+**IMPORTANT**
 
-    https://mega.nz/folder/volmnBDb#QXWspbLt2nildaw6q0dujg
+French
 
-**If you don't want to add mods one by one on steam you can use this link: 
+Tu peut rajouté pour rejoindre le server : 
 
-    https://mega.nz/folder/volmnBDb#QXWspbLt2nildaw6q0dujg
+rajoutez la ligne
+```md
+ActionMappings=(ActionName="DinoLevelupFinderHotkey",Key=$,bShift=False,bCtrl=False,bAlt=True,bCmd=False)
+```
+dans input.ini de GameFolder\ShooterGame\Saved\Config\WindowsNoEditor
+pour que le mod 2097526040 : Dino Levelling Assistant fonctionne
+** vous pouvez changer $ par n'importe quelle key que vous voulez**
+
+English
+
+You can add to join the server:
+
+add the line
+```md
+ActionMappings=(ActionName="DinoLevelupFinderHotkey",Key=$,bShift=False,bCtrl=False,bAlt=True,bCmd=False)
+```
+in input.ini of GameFolder\ShooterGame\Saved\Config\WindowsNoEditor
+for mod 2097526040: Dino Leveling Assistant to work
+**you can change $ to any key you want**
 
 **client/server mods line**
 
+There are two way to download and install the modpack :
+
+1 : install these mods from Steam one by one
+
 2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1264988068,1457151173,2059403921,764792033,2715085686,812639416,1302677071,2368935058,1634834823,1267677473,1122482607,766032350,1752962531,2472241998,1398863801,1315534403,2594067220,1941670807,679529026,855761786,2468403648,893834064,947448389,541612317,530745564,526337556,531205766,558651608,845855498,2757791184,2247209652,520879363,1657570103,2380466974,2227091285,1961542614,1251632107,1591643730,1277490425,1650069767,821530042,889745138,861066940,1184763409,854186603,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2994599390,2795952040,642935680,2783538786,608444330,528247497,943954208,782458537,2791223457,924933745,1609138312
+
+2 : install these mods using my software to install mods ain one time
+
+Download the latest release of the software : https://github.com/quentin452/ArkSurvivalEvolvedModpackInstallerandCreator/releases
+
+Make a txt with all the mods from the first install way
+
+Add the mods here using the txt you made : ![image](https://github.com/quentin452/Ark-Survival-Evolved-Private-servermodpack/assets/42176772/c6ec99cd-9fd5-47c8-b1f2-ee16cc0eb0f6)
+
+Click on install Mods and wait
+
+When mods get installed , open the game and wait this to be finished ![image](https://github.com/quentin452/Ark-Survival-Evolved-Private-servermodpack/assets/42176772/f0231b00-5ff1-4eb1-8076-e027787fbcb3)
+
+
+
 
 --------------------------------------------------------------------------------------------------
 
