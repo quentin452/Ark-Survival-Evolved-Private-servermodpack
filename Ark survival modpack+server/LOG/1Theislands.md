@@ -69,8 +69,6 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     812639416 : Weapons+
     1457151173 : Armoured Supply Drops
     1122482607 : Item Finder
-    766032350 : Fertilized Eggs Naturally Spawn
-    1752962531 : Fertilized Eggs Naturally Spawn - Creatures from mods Addon
     2472241998 : Unlimited Artifacts
     2140170832 : Dino Raids
     1398863801 : Boss Arena Tweaker
@@ -127,6 +125,17 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     924933745 : Dino Tracker
     
 --------------------------------------------------------------------------------------------------
+
+V2.09
+
+**mods deleted**
+
+* 766032350 : Fertilized Eggs Naturally Spawn
+* 1752962531 : Fertilized Eggs Naturally Spawn - Creatures from mods Addon
+
+**other**
+
+* probably reduce server lags
 
 V2.08
 
