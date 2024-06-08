@@ -51,7 +51,7 @@ When mods get installed , open the game and wait this to be finished ![image](ht
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 70MODS
+**mods list** 69MODS
 
     2715085686 : Meat Dehydrator / Jerky Make
     1264988068 : Anti Radiation Armor - Tek, Skins, etc
@@ -124,11 +124,16 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     943954208 : Spawn Blocker v2.13
     782458537 : Durable Generator
     2791223457 : Auto Feeder
+    924933745 : Dino Tracker
     
 --------------------------------------------------------------------------------------------------
 
 V2.08
 
+**mods deleted**
+
+* 1609138312 : Dino Storage v2
+  
 **mods added**
 
 * 924933745 : Dino Tracker
