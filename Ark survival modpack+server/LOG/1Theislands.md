@@ -1,29 +1,5 @@
 **The Islands/TI**
 
-**IMPORTANT**
-
-French
-
-Tu peut rajouté pour rejoindre le server : 
-
-rajoutez la ligne
-```md
-ActionMappings=(ActionName="DinoLevelupFinderHotkey",Key=$,bShift=False,bCtrl=False,bAlt=True,bCmd=False)
-```
-dans input.ini de GameFolder\ShooterGame\Saved\Config\WindowsNoEditor
-pour que le mod 2097526040 : Dino Levelling Assistant fonctionne
-** vous pouvez changer $ par n'importe quelle key que vous voulez**
-
-English
-
-You can add to join the server:
-
-add the line
-```md
-ActionMappings=(ActionName="DinoLevelupFinderHotkey",Key=$,bShift=False,bCtrl=False,bAlt=True,bCmd=False)
-```
-in input.ini of GameFolder\ShooterGame\Saved\Config\WindowsNoEditor
-for mod 2097526040: Dino Leveling Assistant to work
 **you can change $ to any key you want**
 
 **client/server mods line**
