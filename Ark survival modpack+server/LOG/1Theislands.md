@@ -123,7 +123,6 @@ V2.1.0
 **other**
 
 * removed Builder's Improvements (vanilla improved) to prevent potential bugs with Structure +
-* should reduce loading time by 1min 30 seconds by removing .........
 * should reduce again loading time by removing some mods and using at the place Structures Plus
 
 V2.09
