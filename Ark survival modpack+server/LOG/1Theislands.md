@@ -1,14 +1,12 @@
 **The Islands/TI**
 
-**you can change $ to any key you want**
-
 **client/server mods line**
 
 There are two way to download and install the modpack :
 
 1 : install these mods from Steam one by one
 
-2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1264988068,1457151173,2059403921,764792033,2715085686,812639416,1302677071,2368935058,1634834823,1267677473,1122482607,766032350,1752962531,2472241998,1398863801,1315534403,2594067220,1941670807,679529026,855761786,2468403648,893834064,947448389,541612317,530745564,526337556,531205766,558651608,845855498,2757791184,2247209652,520879363,1657570103,2380466974,2227091285,1961542614,1251632107,1591643730,1277490425,1650069767,821530042,889745138,861066940,1184763409,854186603,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2994599390,2795952040,642935680,2783538786,608444330,528247497,943954208,782458537,2791223457,924933745,1609138312
+2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1302677071,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,1941670807,679529026,2468403648,845855498,2247209652,1657570103,2380466974,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2994599390,2795952040,642935680,2783538786,608444330,528247497,943954208,782458537,2791223457,924933745,2806700110,2623890618,731604991,526337556,1498412390,1591643730,2140170832
 
 2 : install these mods using my software to install mods ain one time
 
@@ -22,23 +20,26 @@ Click on install Mods and wait
 
 When mods get installed , open the game and wait this to be finished ![image](https://github.com/quentin452/Ark-Survival-Evolved-Private-servermodpack/assets/42176772/f0231b00-5ff1-4eb1-8076-e027787fbcb3)
 
-
-
-
 --------------------------------------------------------------------------------------------------
 
-**mods list** 69MODS
+**mods list** 62MODS
 
+    // Open Source mods
+
+    731604991 : Structures Plus (S+)
+    760865850 : Inventory Cleaner (Open Source)
+    1498412390 : Dino Garage [OPEN SOURCE] (Discontinued)
+
+    // Closed Source Mods
+    
     2715085686 : Meat Dehydrator / Jerky Make
-    1264988068 : Anti Radiation Armor - Tek, Skins, etc
     2016338122 : Shiny! Dinos
     2059403921 : TheIsland Map Extension: Better Island Volcano
     2328391092 : Dino Fixes
     1133918048 : Phoenix Everywhere
     1440414363 : All Dinos Allow Guns
-    1963942404 : Pandora's Box - Mobile Storage
+    1963942404 : Pandora's Box - Mobile Storage 
     1302677071 : Craftable Resources
-    2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
     1267677473 : Cross Aberration
     1634834823 : DarkEdge's Cross Extinction
     764792033 : Armour+
@@ -46,44 +47,31 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     1457151173 : Armoured Supply Drops
     1122482607 : Item Finder
     2472241998 : Unlimited Artifacts
-    2140170832 : Dino Raids
+    2140170832 : Dino Raids // NOT ENABLED ON THE SERVER FOR NOW
     1398863801 : Boss Arena Tweaker
     2594067220 : Super Spyglass Plus
     679529026 : Ark Steampunk Mod
     1315534403 : PVE Offline Player Protection
-    855761786 : Automated Resource Pumps
     2468403648 : Elemental Pick
     1941670807 : GHG's Tranquilizer Stuff remastered
     2590318375 : HudEvolved DinoBars
-    893834064 : Wooden Hanging Bridge
-    947448389 : Readable Signs
-    541612317 : Big Walls
-    530745564 : RampX
-    526337556 : Small Gates
-    531205766 : Real Rails
-    558651608 : Bridge
     845855498 : Scorched earth plus
-    2757791184 : Jurassic Ark Structures (Riot)
     2247209652 : Monsters and more
     1292661988 : ( The Island ) DLC Resources - Arkanea Server
-    520879363 : Stairs Mod with Rounded Walls
     1657570103 : SeedFarm
     2380466974 : Small Bosses
     2227091285 : Fast Ammo Changer
     1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More 
     1251632107 : Immersive Taming
-    2205699189 : Alpha Everything (OPEN SOURCE)
+    2205699189 : Alpha Everything
     1931415003 : Best Eggs!
     1910733780 : Boss Wipe Recovery
     2128782723 : Mindwipe My Dino
     1496720667 : Powerful Plant X (PPX) - Configurable Plant Turrets
     1428596566 : Auto Engrams!
     2769908652 : Better Waypoints V2
-    760865850 : Inventory Cleaner (Open Source)
-    854186603 : Builder's Improvements (vanilla improved)
     1184763409 : Dino Patrol
     861066940 : Repair Kits
-    1591643730 : Creature Finder Deluxe 
     1277490425 : Dino Quick Recovery
     1650069767 : Sleep able bed
     761535755 : Ultra Stacks
@@ -99,8 +87,44 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     782458537 : Durable Generator
     2791223457 : Auto Feeder
     924933745 : Dino Tracker
-    
+    2806700110 : Configurable Cryopods+
+    2623890618 : Inventory Backup System
+    526337556 : Small Gates
+    1591643730 : Creature Finder Deluxe
+
 --------------------------------------------------------------------------------------------------
+
+V2.1.0
+
+**mods added**
+
+* 924933745 : Dino Tracker
+* 2806700110 : Configurable Cryopods+
+* 2623890618 : Inventory Backup System
+* 731604991 : Structures Plus (S+)
+* 1498412390 : Dino Garage [OPEN SOURCE] (Discontinued)
+
+**mods deleted**
+
+* 2368935058 : Place Anywhere Oil Pump, Gas Pump, and Water Well
+* 855761786 : Automated Resource Pumps
+* 2757791184 : Jurassic Ark Structures (Riot)
+* 520879363 : Stairs Mod with Rounded Walls
+* 854186603 : Builder's Improvements (vanilla improved)
+* 893834064 : Wooden Hanging Bridge
+* 947448389 : Readable Signs
+* 541612317 : Big Walls
+* 530745564 : RampX
+* 531205766 : Real Rails
+* 558651608 : Bridge
+* 1264988068 : Anti Radiation Armor - Tek, Skins, etc
+* 782458537 : Durable Generator
+
+**other**
+
+* removed Builder's Improvements (vanilla improved) to prevent potential bugs with Structure +
+* should reduce loading time by 1min 30 seconds by removing .........
+* should reduce again loading time by removing some mods and using at the place Structures Plus
 
 V2.09
 
@@ -877,7 +901,6 @@ V1.23 TEST BUILD/UNSTABLE BUILD
 
 * 2287986276 : Tameable Bosses
 * 1190882708 : No Obelisk Island  
-
 
 **fixe**
 
