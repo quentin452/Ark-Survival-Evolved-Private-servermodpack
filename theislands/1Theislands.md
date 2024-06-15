@@ -22,7 +22,7 @@ When mods get installed , open the game and wait this to be finished ![image](ht
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 58MODS
+**mods list** 57MODS
 
     // Open Source mods
 
