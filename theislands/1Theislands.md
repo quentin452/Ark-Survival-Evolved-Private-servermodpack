@@ -6,7 +6,7 @@ There are two way to download and install the modpack :
 
 1 : install these mods from Steam one by one
 
-2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,845855498,2247209652,1657570103,2380466974,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2795952040,2010338386,2783538786,608444330,528247497,943954208,782458537,2791223457,924933745,2623890618,731604991,526337556,1591643730,861345085,2140170832
+2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,845855498,1657570103,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2795952040,2010338386,2783538786,608444330,528247497,782458537,2791223457,924933745,2623890618,731604991,526337556,1591643730,861345085,2380466974,1981064221,2820647244,2984407853,2824091110,3087251245,3037257184,2302876995,1261775998,2140170832
 
 2 : install these mods using my software to install mods ain one time
 
@@ -22,7 +22,7 @@ When mods get installed , open the game and wait this to be finished ![image](ht
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 57MODS
+**mods list** 63MODS
 
     // Open Source mods
 
@@ -52,10 +52,8 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     2468403648 : Elemental Pick
     2590318375 : HudEvolved DinoBars
     845855498 : Scorched earth plus
-    2247209652 : Monsters and more
     1292661988 : ( The Island ) DLC Resources - Arkanea Server
     1657570103 : SeedFarm
-    2380466974 : Small Bosses
     2227091285 : Fast Ammo Changer
     1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More 
     1251632107 : Immersive Taming
@@ -78,7 +76,6 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     2783538786 : Auto Poop Collector
     608444330 : Polymer Converter
     528247497 : Stone Crusher
-    943954208 : Spawn Blocker v2.13
     782458537 : Durable Generator
     2791223457 : Auto Feeder
     924933745 : Dino Tracker
@@ -86,8 +83,39 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     526337556 : Small Gates
     1591643730 : Creature Finder Deluxe
     861345085 : Ultimate Eggs Collector
+    1981064221 : Primitiv Turrets
+    2820647244 : Fjordur Dinos Everywhere
+    2984407853 : Rhynio Everywhere
+    2824091110 : Lost Island Dinos Everywhere
+    3087251245 : Crystal Isles Everywhere
+    3037257184 : Deinonychus Everywhere
+    2302876995 : Any Colour Sets
+    1261775998 : Dino Harvest Enhanced
+    2380466974 : Small Bosses
 
 --------------------------------------------------------------------------------------------------
+
+V2.1.8
+
+**mods added**
+
+* 1981064221 : Primitiv Turrets
+* 2820647244 : Fjordur Dinos Everywhere
+* 2984407853 : Rhynio Everywhere
+* 2824091110 : Lost Island Dinos Everywhere
+* 3087251245 : Crystal Isles Everywhere
+* 3037257184 : Deinonychus Everywhere
+* 2302876995 : Any Colour Sets
+* 1261775998 : Dino Harvest Enhanced
+
+**mods deleted**
+
+* 2247209652 : Monsters and more
+* 943954208 : Spawn Blocker v2.13
+
+**other**
+
+* Removed Monsters and more to prevent potential Dinosaure from spawning in Prime Alpha (from Alpha everything) and to be boss from Monster and more at the same time by removing it .Prevent REALLY STRONG DINOS
 
 V2.1.7
 
