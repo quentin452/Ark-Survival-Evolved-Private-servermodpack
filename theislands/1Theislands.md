@@ -6,7 +6,7 @@ There are two way to download and install the modpack :
 
 1 : install these mods from Steam one by one
 
-2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,845855498,1657570103,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2795952040,2010338386,2783538786,608444330,528247497,782458537,2791223457,924933745,3270173155,526337556,1591643730,861345085,2380466974,1981064221,2820647244,2984407853,2824091110,3087251245,3037257184,1261775998,2140170832
+2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,1657570103,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2795952040,2010338386,2783538786,608444330,528247497,782458537,2791223457,924933745,731604991,526337556,1591643730,861345085,2380466974,1981064221,2820647244,2984407853,2824091110,3087251245,3037257184,1261775998,1309854796,931213038,2140170832
 
 2 : install these mods using my software to install mods ain one time
 
@@ -22,11 +22,11 @@ When mods get installed , open the game and wait this to be finished ![image](ht
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 61MODS
+**mods list** 62MODS
 
     // Open Source mods
 
-    3270173155 : Structure Plus Cat Fork(testings)
+    731604991 : Structures Plus (S+)
     760865850 : Inventory Cleaner (Open Source)
 
     // Closed Source Mods
@@ -51,7 +51,6 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     1315534403 : PVE Offline Player Protection
     2468403648 : Elemental Pick
     2590318375 : HudEvolved DinoBars
-    845855498 : Scorched earth plus
     1292661988 : ( The Island ) DLC Resources - Arkanea Server
     1657570103 : SeedFarm
     2227091285 : Fast Ammo Changer
@@ -90,8 +89,35 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     3037257184 : Deinonychus Everywhere
     1261775998 : Dino Harvest Enhanced
     2380466974 : Small Bosses
+    1309854796 : Mantis The Island spawn and Breeding!
+    931213038 : Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
 
 --------------------------------------------------------------------------------------------------
+
+V2.2.2
+
+**mods added**
+
+* 1309854796 : Mantis The Island spawn and Breeding!
+* 931213038 : Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
+
+**mods deleted**
+ 
+* 845855498 : Scorched Earth Plus
+
+**fixe**
+
+* fix death worm spawning by changing Scorched Earth Plus to Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
+
+V2.2.1
+
+**mods added**
+
+* 731604991 : Structures Plus (S+)
+
+**mods deleted**
+
+* 3270173155 : Structure Plus Cat Fork(testings)
 
 V2.2.0
 
