@@ -6,7 +6,7 @@ There are two way to download and install the modpack :
 
 1 : install these mods from Steam one by one
 
-2590318375,761535755,2328391092,2205699189,2016338122,1133918048,1440414363,1963942404,1457151173,2059403921,764792033,2715085686,812639416,1634834823,1267677473,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,1657570103,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,760865850,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,1292661988,2795952040,2010338386,2783538786,608444330,528247497,782458537,2791223457,924933745,731604991,526337556,1591643730,861345085,2380466974,1981064221,2820647244,2984407853,2824091110,3087251245,3037257184,1261775998,1309854796,931213038,2140170832
+2590318375,761535755,2328391092,2205699189,2016338122,1440414363,1963942404,1457151173,764792033,2715085686,812639416,1122482607,2472241998,1398863801,1315534403,2594067220,2468403648,1657570103,2227091285,1961542614,1251632107,1277490425,1650069767,821530042,889745138,861066940,1184763409,2769908652,1428596566,1931415003,1910733780,2128782723,1496720667,2795952040,2010338386,608444330,528247497,782458537,2791223457,924933745,526337556,1591643730,2380466974,1981064221,1261775998,2140170832,1999447172,2940552119
 
 2 : install these mods using my software to install mods ain one time
 
@@ -22,36 +22,26 @@ When mods get installed , open the game and wait this to be finished ![image](ht
 
 --------------------------------------------------------------------------------------------------
 
-**mods list** 62MODS
+**mods list** 48MODS
 
-    // Open Source mods
-
-    731604991 : Structures Plus (S+)
-    760865850 : Inventory Cleaner (Open Source)
-
-    // Closed Source Mods
-    
+    2940552119 : Island Extension CIE
+    1999447172 : Super Structures
     2715085686 : Meat Dehydrator / Jerky Make
     2016338122 : Shiny! Dinos
-    2059403921 : TheIsland Map Extension: Better Island Volcano
     2328391092 : Dino Fixes
-    1133918048 : Phoenix Everywhere
     1440414363 : All Dinos Allow Guns
     1963942404 : Pandora's Box - Mobile Storage 
-    1267677473 : Cross Aberration
-    1634834823 : DarkEdge's Cross Extinction
     764792033 : Armour+
     812639416 : Weapons+
     1457151173 : Armoured Supply Drops
     1122482607 : Item Finder
     2472241998 : Unlimited Artifacts
-    2140170832 : Dino Raids // NOT ENABLED ON THE SERVER FOR NOW
+    2140170832 : Dino Raids
     1398863801 : Boss Arena Tweaker
     2594067220 : Super Spyglass Plus
     1315534403 : PVE Offline Player Protection
     2468403648 : Elemental Pick
     2590318375 : HudEvolved DinoBars
-    1292661988 : ( The Island ) DLC Resources - Arkanea Server
     1657570103 : SeedFarm
     2227091285 : Fast Ammo Changer
     1961542614 : Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More 
@@ -72,7 +62,6 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     889745138 : Awesome Teleporters!
     2795952040 : Ascender
     2010338386 : Genesis Grinder
-    2783538786 : Auto Poop Collector
     608444330 : Polymer Converter
     528247497 : Stone Crusher
     782458537 : Durable Generator
@@ -80,19 +69,37 @@ When mods get installed , open the game and wait this to be finished ![image](ht
     924933745 : Dino Tracker
     526337556 : Small Gates
     1591643730 : Creature Finder Deluxe
-    861345085 : Ultimate Eggs Collector
     1981064221 : Primitiv Turrets
-    2820647244 : Fjordur Dinos Everywhere
-    2984407853 : Rhynio Everywhere
-    2824091110 : Lost Island Dinos Everywhere
-    3087251245 : Crystal Isles Everywhere
-    3037257184 : Deinonychus Everywhere
     1261775998 : Dino Harvest Enhanced
     2380466974 : Small Bosses
-    1309854796 : Mantis The Island spawn and Breeding!
-    931213038 : Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
 
 --------------------------------------------------------------------------------------------------
+
+V3.0
+
+**mods added**
+
+* 2940552119 : Island Extension CIE
+* 1999447172 : Super Structures
+
+**mods deleted**
+
+* 760865850 : Inventory Cleaner (Open Source)
+* 731604991 : Structures Plus (S+)
+* 1292661988 : ( The Island ) DLC Resources - Arkanea Server
+* 931213038 : Wyvern Crevasse and Deathworm Island (Map Extension for The Island)
+* 1133918048 : Phoenix Everywhere
+* 1309854796 : Mantis The Island spawn and Breeding!
+* 3037257184 : Deinonychus Everywhere
+* 3087251245 : Crystal Isles Everywhere
+* 2824091110 : Lost Island Dinos Everywhere
+* 2984407853 : Rhynio Everywhere
+* 2820647244 : Fjordur Dinos Everywhere
+* 1634834823 : DarkEdge's Cross Extinction
+* 1267677473 : Cross Aberration
+* 2059403921 : TheIsland Map Extension: Better Island Volcano
+* 2783538786 : Auto Poop Collector
+* 861345085 : Ultimate Eggs Collector
 
 V2.2.2
 
